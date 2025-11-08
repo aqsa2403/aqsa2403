@@ -2,7 +2,7 @@
 
 <!-- 🩵 Typing Animation Header -->
 <p align="center">
- <h1 align="center">Hi 👋, I'm <AQSA2403></h1>
+ <h1 align="center">Hi 👋, I'm < aqsa2403 ></h1>
 </p>
 
 ---
