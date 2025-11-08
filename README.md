@@ -2,7 +2,7 @@
 
 <!-- 🩵 Typing Animation Header -->
 <p align="center">
- <h1> i'm aqsa2403 </h1>
+ <h1 align="center">Hi 👋, I'm <AQSA2403></h1>
 </p>
 
 ---
@@ -23,7 +23,6 @@
 - 🌱 I’m learning **JavaScript & TailwindCSS**
 - 💬 Ask me about **HTML, CSS, UI/UX Design**
 - 🎯 Goal: To build beautiful and functional web experiences
-- 📫 Reach me at **aqsa2403@gmail.com**
 - 💖 Fun fact: I love coffee ☕ and clean code ✨
 
 ---
