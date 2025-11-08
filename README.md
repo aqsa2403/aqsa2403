@@ -52,6 +52,9 @@
 
 ---
 
+[![Snake animation](https://github.com/<YOUR_USERNAME>/github-readme-snake/raw/output/github-contribution-grid-snake.svg)](https://git.io/streak-stats)
+
+
 ### 🌱 Contribution Graph
 
 <p align="center">
