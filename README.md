@@ -1,5 +1,5 @@
 <!-- 🌟 Modern GitHub Profile README (All-in-One) -->
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, I'm aqsa2403</h1>
 <h3 align="center">🚀 A passionate Full-Stack Developer from Your Country</h3>
 
 ---
@@ -49,11 +49,6 @@
 </p>
 
 ---
-
-### 🐍 GitHub Contribution Snake (Animated)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
-</p>
 
 ---
 
