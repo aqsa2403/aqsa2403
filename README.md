@@ -32,7 +32,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,figma,laravel,sql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,figma,laravel,mysql,git,github,vscode" />
 </p>
 
 ---
