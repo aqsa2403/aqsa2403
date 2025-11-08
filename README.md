@@ -1,26 +1,18 @@
-<!-- Modern GitHub Profile README Template -->
+<!-- 🌟 Modern GitHub Profile README (All-in-One) -->
 <h1 align="center">Hi 👋, I'm Your Name</h1>
-<h3 align="center">🚀 A passionate developer from Your Country</h3>
-
-<p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/github/followers/yourusername?label=Follow%20Me&style=social" alt="GitHub Followers" />
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/twitter/follow/yourhandle?style=social" alt="Twitter Follow" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<h3 align="center">🚀 A passionate Full-Stack Developer from Your Country</h3>
 
 ---
 
 ### 🧰 Tech Stack
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
 </p>
 
 ---
@@ -58,13 +50,48 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake
+### 🐍 GitHub Contribution Snake (Animated)
 <p align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </p>
 
 ---
 
 ### ✨ Fun Fact
-> I love solving problems with clean code and a cup of ☕
+> I love building modern web experiences with HTML, CSS, JavaScript, Laravel, and WordPress — always with a creative touch from Figma 🎨
+
+---
+
+<!-- 🐍 SNAKE WORKFLOW SETUP (add this in .github/workflows/snake.yml) -->
+<!-- 
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: yourusername
+          outputs: dist/github-contribution-grid-snake.svg
+
+      - name: Push Snake Animation to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+-->
+
+
 
