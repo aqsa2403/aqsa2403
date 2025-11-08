@@ -24,6 +24,8 @@
 - 💬 Ask me about **HTML, CSS, UI/UX Design**
 - 🎯 Goal: To build beautiful and functional web experiences
 - 💖 Fun fact: I love coffee ☕ and clean code ✨
+- reachme
+- aqsaakhan2244@gmail.com
 
 ---
 
