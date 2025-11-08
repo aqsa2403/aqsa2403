@@ -1,94 +1,88 @@
-<!-- 🌟 Modern GitHub Profile README (All-in-One) -->
-<h1 align="center">Hi 👋, I'm aqsa2403</h1>
-<h3 align="center">🚀 A passionate Full-Stack Developer from Your Country</h3>
+<!-- Stylish GitHub Profile README -->
+
+<!-- 🩵 Typing Animation Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=00C0FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Aqsa;Front-End+Developer+💻;Creative+Designer+🎨;Open+Source+Enthusiast+🚀" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🧰 Tech Stack
+<h3 align="center">💫 Passionate Frontend Developer | 💡 UI/UX Designer | 🌍 From Pakistan</h3>
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="Laravel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL" />
+  <a href="https://github.com/aqsa2403">
+    <img src="https://img.shields.io/github/followers/aqsa2403?label=Followers&style=social" alt="GitHub followers" />
+  </a>
 </p>
 
+---
+
+### 👩‍💻 About Me
+
+- 🔭 I’m currently working on **Web Design Projects**
+- 🌱 I’m learning **JavaScript & TailwindCSS**
+- 💬 Ask me about **HTML, CSS, UI/UX Design**
+- 🎯 Goal: To build beautiful and functional web experiences
+- 📫 Reach me at **aqsa2403@gmail.com**
+- 💖 Fun fact: I love coffee ☕ and clean code ✨
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,figma,git,github,vscode" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" height="180" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aqsa2403&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqsa2403&layout=compact&theme=radical" alt="Top Languages" height="150"/>
 </p>
 
 ---
 
-### 💻 Featured Projects
+### 🔥 Streak Stats
+
 <p align="center">
-  <a href="https://github.com/yourusername/yourproject1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourproject1&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aqsa2403&theme=radical" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+### 🌱 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aqsa2403&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+### 💬 Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/aqsa2403" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/yourusername/yourproject2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourproject2&theme=tokyonight" />
+  <a href="https://twitter.com/aqsa2403" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-</p>
-
----
-
-### 🎧 Currently Listening
-<p align="center">
-  <a href="https://open.spotify.com/user/yourspotifyusername">
-    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Playing" />
+  <a href="mailto:aqsa2403@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
+  <a href="https://github.com/aqsa2403" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00bcd4?style=for-the-badge&logo=
 
----
-
----
-
-### ✨ Fun Fact
-> I love building modern web experiences with HTML, CSS, JavaScript, Laravel, and WordPress — always with a creative touch from Figma 🎨
-
----
-
-<!-- 🐍 SNAKE WORKFLOW SETUP (add this in .github/workflows/snake.yml) -->
-<!-- 
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-
-      - name: Generate Snake Animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: yourusername
-          outputs: dist/github-contribution-grid-snake.svg
-
-      - name: Push Snake Animation to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
 
 
 
