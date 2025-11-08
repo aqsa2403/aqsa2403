@@ -2,7 +2,7 @@
 
 <!-- 🩵 Typing Animation Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=00C0FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Aqsa;Front-End+Developer+💻;Creative+Designer+🎨;Open+Source+Enthusiast+🚀" alt="Typing SVG" />
+ <h1> i'm aqsa2403 </h1>
 </p>
 
 ---
