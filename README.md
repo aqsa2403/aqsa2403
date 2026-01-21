@@ -10,7 +10,7 @@
 - 💻 Interested in **Frontend + Backend Development**
 - 🎨 Love **UI Designing**
 - 🎯 Goal: Become a **Professional Software Developer**
-- reachme @aqsaa2244@gmail.com
+- reachme @aqsaakhan2244@gmail.com
 
 ---
 
